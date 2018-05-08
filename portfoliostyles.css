@@ -1,0 +1,12 @@
+p {
+	word-break: break-all;
+}
+
+#nametag{
+	text-align: center;
+	font-size: 38pt;
+}
+
+body{
+	background-color: green;
+}
